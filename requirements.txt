@@ -1,0 +1,13 @@
+# Just the required libraries
+ipykernel>=6.15.2
+
+# Geospatial libraries
+geopandas>=0.10.0
+osmnx>=2.0.6
+
+# Machine learning libraries
+scikit-learn>=1.7.2
+
+# Visualization libraries
+matplotlib>=3.10.7
+contextily>=0.1.7

@@ -1,2 +1,59 @@
-# geo-clustering
-A series of Jupyter notebooks that walk you through the fundamentals of Geospatial Clustering Analysis of Urban Data  in Python.
+# Geospatial Clustering Analysis of Urban Data
+
+This repository contains Jupyter Notebooks that demonstrate geospatial clustering techniques applied to urban datasets. The notebooks utilize popular Python libraries such as `pandas`, `geopandas`, `scikit-learn`, and `matplotlib` to perform clustering analysis and visualize the results.
+
+<!--
+**Publication**
+
+This work is part of the research published in the following paper: -->
+
+## Notebooks
+
+-   `01_Educational_Hubs.ipynb`: A basic application that uses K-Means and DBSCAN clustering to characterize the spatial distribution of educational institutions in Porto, Portugal.
+
+## Quick Start
+
+### Running without installation
+
+You can run the notebooks directly in Google Colab without any local installation. Simply click the "Open in Colab" badge at the top of each notebook.
+
+<a href="https://colab.research.google.com/github/les2feup/geo-clustering/blob/main/01_Educational_Hubs.ipynb" target="_blank">
+<img src="https://img.shields.io/badge/Open%20in-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Open In Colab"/>
+</a>
+
+> ⚠️ **Note:** Colab provides a temporary environment. Your work will be lost after your session ends, so remember to download any important data or notebooks.
+
+## Running Locally in VSCode
+
+To run the notebooks locally, follow these steps:
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/les2feup/geo-clustering.git
+    cd geo-clustering
+    ```
+
+2. Create a virtual environment and activate it:
+
+    ```bash
+    python3 -m venv venv
+    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+    ```
+
+3. Install the required dependencies:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+4. Open the repository in VSCode and launch Jupyter Notebooks.
+
+# License
+
+This project is licensed under the Apache 2.0 License. See the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+-   This project was developed at the Laboratory of Emergent Smart Systems (LES2) at the Faculty of Engineering of University of Porto (FEUP), Portugal.
+-   This work was supported by the Associate Laboratory Advanced Production and Intelligent Systems – ARISE LA/P/0112/2020 (DOI 10.54499/LA/P/0112/2020), by the Base Funding (UIDB/00147/2020) and Programmatic Funding (UIDP/00147/2020) of the R&D Unit Center for Systems and Technologies -- SYSTEC, and by the Fundação para a Ciência e a Tecnologia (FCT) through the PhD scholarship (2024.02446.BD).
