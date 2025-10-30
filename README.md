@@ -9,7 +9,9 @@ This work is part of the research published in the following paper: -->
 
 ## Notebooks
 
--   `01_Educational_Hubs.ipynb`: A basic application that uses K-Means and DBSCAN clustering to characterize the spatial distribution of educational institutions in Porto, Portugal.
+-   [`01_Educational_Hubs.ipynb`](01_Educational_Hubs.ipynb): A basic application that uses K-Means and DBSCAN clustering to characterize the spatial distribution of educational institutions in Porto, Portugal.
+
+-   [`02_Wildfire_Hotspots_in_Portugal.ipynb`](02_Wildfire_Hotspots_in_Portugal.ipynb): An advanced application that employs HDBSCAN clustering to identify and analyze wildfire hotspots across Portugal.
 
 ## Quick Start
 
