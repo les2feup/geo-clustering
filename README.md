@@ -13,6 +13,8 @@ This work is part of the research published in the following paper: -->
 
 -   [`02_Wildfire_Hotspots_in_Portugal.ipynb`](02_Wildfire_Hotspots_in_Portugal.ipynb): An advanced application that employs HDBSCAN clustering to identify and analyze wildfire hotspots across Portugal.
 
+-   [`03_Spatiotemporal_Vulnerability.ipynb`](03_Spatiotemporal_Vulnerability.ipynb): A end-to-end application based on [VERUS](https://github.com/les2feup/verus), which combines OPTICS and K-Means clustering to assess spatiotemporal vulnerability in urban areas based on various points of temporal influence.
+
 ## Quick Start
 
 ### Running without installation
@@ -57,5 +59,5 @@ This project is licensed under the Apache 2.0 License. See the [LICENSE](LICENSE
 
 ## Acknowledgments
 
--   This project was developed at the Laboratory of Emergent Smart Systems (LES2) at the Faculty of Engineering of University of Porto (FEUP), Portugal.
+-   This project was developed at the Laboratory of Emerging Smart Systems (LES2) at the Faculty of Engineering of University of Porto (FEUP), Portugal.
 -   This work was supported by the Associate Laboratory Advanced Production and Intelligent Systems – ARISE LA/P/0112/2020 (DOI 10.54499/LA/P/0112/2020), by the Base Funding (UIDB/00147/2020) and Programmatic Funding (UIDP/00147/2020) of the R&D Unit Center for Systems and Technologies -- SYSTEC, and by the Fundação para a Ciência e a Tecnologia (FCT) through the PhD scholarship (2024.02446.BD).
