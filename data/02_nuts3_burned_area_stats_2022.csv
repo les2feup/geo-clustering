@@ -1,0 +1,24 @@
+NUTS_ID,LEVL_CODE,CNTR_CODE,NAME_LATN,NUTS_NAME,MOUNT_TYPE,URBN_TYPE,COAST_TYPE,Fire_Count,Total_Area_ha,Mean_Area_ha,Max_Area_ha,Dominant_Cluster,Clustered_Fires,Noise_Pct,N_Clusters
+PT112,3,PT,Cávado,Cávado,2,2,1,63,950.64,15.09,82.8,-1,32,49.21,2
+PT119,3,PT,Ave,Ave,2,2,2,207,4260.71,20.58,534.16,14,126,39.13,3
+PT11A,3,PT,Área Metropolitana do Porto,Área Metropolitana do Porto,4,1,1,179,1540.48,8.61,227.99,16,111,37.99,3
+PT16I,3,PT,Médio Tejo,Médio Tejo,4,3,3,80,4080.86,51.01,2356.54,3,75,6.25,2
+PT11E,3,PT,Terras de Trás-os-Montes,Terras de Trás-os-Montes,3,3,3,106,1173.59,11.07,244.65,-1,59,44.34,2
+PT16D,3,PT,Região de Aveiro,Região de Aveiro,4,2,1,14,3158.84,225.63,2865.4,4,8,42.86,1
+PT150,3,PT,Algarve,Algarve,4,2,1,14,2099.12,149.94,1322.16,-1,0,100.0,0
+PT185,3,PT,Lezíria do Tejo,Lezíria do Tejo,4,3,1,31,829.45,26.76,614.52,-1,12,61.29,2
+PT186,3,PT,Alto Alentejo,Alto Alentejo,4,3,3,15,201.24,13.42,68.26,-1,0,100.0,0
+PT16J,3,PT,Beiras e Serra da Estrela,Beiras e Serra da Estrela,3,3,3,90,33333.39,370.37,24462.52,-1,42,53.33,3
+PT170,3,PT,Área Metropolitana de Lisboa,Área Metropolitana de Lisboa,4,1,1,48,963.57,20.07,420.34,1,45,6.25,1
+PT16H,3,PT,Beira Baixa,Beira Baixa,4,3,3,18,134.12,7.45,36.34,-1,0,100.0,0
+PT11B,3,PT,Alto Tâmega,Alto Tâmega,3,3,3,143,6885.46,48.15,1638.48,-1,71,50.35,2
+PT11C,3,PT,Tâmega e Sousa,Tâmega e Sousa,3,2,2,252,5315.06,21.09,1301.56,-1,129,48.81,4
+PT11D,3,PT,Douro,Douro,3,3,3,69,18696.16,270.96,7188.69,-1,6,91.3,2
+PT181,3,PT,Alentejo Litoral,Alentejo Litoral,4,3,1,14,306.14,21.87,255.94,-1,0,100.0,0
+PT111,3,PT,Alto Minho,Alto Minho,2,3,1,136,4737.25,34.83,1056.54,-1,62,54.41,2
+PT184,3,PT,Baixo Alentejo,Baixo Alentejo,4,3,3,48,439.23,9.15,116.8,0,26,45.83,1
+PT16B,3,PT,Oeste,Oeste,4,3,1,36,265.54,7.38,206.16,1,35,2.78,1
+PT16E,3,PT,Região de Coimbra,Região de Coimbra,4,3,1,41,469.0,11.44,186.51,4,25,39.02,2
+PT16F,3,PT,Região de Leiria,Região de Leiria,4,3,1,25,12353.08,494.12,5194.7,-1,12,52.0,1
+PT16G,3,PT,Viseu Dão Lafões,Viseu Dão Lafões,3,3,3,110,1013.44,9.21,459.04,9,66,40.0,3
+PT187,3,PT,Alentejo Central,Alentejo Central,4,3,3,41,466.56,11.38,276.34,-1,15,63.41,1

@@ -1,0 +1,24 @@
+NUTS_ID,LEVL_CODE,CNTR_CODE,NAME_LATN,NUTS_NAME,MOUNT_TYPE,URBN_TYPE,COAST_TYPE,Fire_Count,Total_Area_ha,Mean_Area_ha,Max_Area_ha,Dominant_Cluster,Clustered_Fires,Noise_Pct,N_Clusters
+PT112,3,PT,Cávado,Cávado,2,2,1,32,417.75,13.05,68.47,2,32,0.0,1
+PT119,3,PT,Ave,Ave,2,2,2,123,2214.49,18.0,208.11,2,123,0.0,1
+PT11A,3,PT,Área Metropolitana do Porto,Área Metropolitana do Porto,4,1,1,41,583.76,14.24,154.8,2,40,2.44,1
+PT16I,3,PT,Médio Tejo,Médio Tejo,4,3,3,12,118.5,9.87,23.21,0,12,0.0,1
+PT11E,3,PT,Terras de Trás-os-Montes,Terras de Trás-os-Montes,3,3,3,34,654.01,19.24,250.4,2,19,44.12,1
+PT16D,3,PT,Região de Aveiro,Região de Aveiro,4,2,1,3,22.7,7.57,19.36,-1,0,100.0,0
+PT150,3,PT,Algarve,Algarve,4,2,1,16,9220.46,576.28,6629.6,0,11,31.25,1
+PT185,3,PT,Lezíria do Tejo,Lezíria do Tejo,4,3,1,20,239.39,11.97,108.19,0,20,0.0,1
+PT186,3,PT,Alto Alentejo,Alto Alentejo,4,3,3,16,530.05,33.13,205.44,0,15,6.25,1
+PT16J,3,PT,Beiras e Serra da Estrela,Beiras e Serra da Estrela,3,3,3,40,1451.77,36.29,436.86,-1,16,60.0,1
+PT170,3,PT,Área Metropolitana de Lisboa,Área Metropolitana de Lisboa,4,1,1,8,110.09,13.76,60.65,0,8,0.0,1
+PT16H,3,PT,Beira Baixa,Beira Baixa,4,3,3,2,54.28,27.14,29.72,-1,0,100.0,0
+PT11B,3,PT,Alto Tâmega,Alto Tâmega,3,3,3,126,3372.74,26.77,227.53,2,126,0.0,1
+PT11C,3,PT,Tâmega e Sousa,Tâmega e Sousa,3,2,2,91,1179.47,12.96,145.76,2,91,0.0,1
+PT11D,3,PT,Douro,Douro,3,3,3,49,1531.97,31.26,394.15,2,41,16.33,2
+PT181,3,PT,Alentejo Litoral,Alentejo Litoral,4,3,1,19,1126.22,59.27,913.86,0,19,0.0,1
+PT111,3,PT,Alto Minho,Alto Minho,2,3,1,148,2187.8,14.78,205.91,2,148,0.0,1
+PT184,3,PT,Baixo Alentejo,Baixo Alentejo,4,3,3,41,515.56,12.57,199.58,0,41,0.0,1
+PT16B,3,PT,Oeste,Oeste,4,3,1,2,13.66,6.83,11.72,0,2,0.0,1
+PT16E,3,PT,Região de Coimbra,Região de Coimbra,4,3,1,1,2.33,2.33,2.33,0,1,0.0,1
+PT16F,3,PT,Região de Leiria,Região de Leiria,4,3,1,7,20.53,2.93,8.57,0,7,0.0,1
+PT16G,3,PT,Viseu Dão Lafões,Viseu Dão Lafões,3,3,3,46,973.45,21.16,200.95,2,42,8.7,1
+PT187,3,PT,Alentejo Central,Alentejo Central,4,3,3,41,833.67,20.33,109.93,0,41,0.0,1
